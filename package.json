@@ -20,7 +20,8 @@
   "author": "Ali Penddarou <atapndro21@gmail.com> (ataw-dev)",
   "license": "MIT",
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/AliPandaroo/boolFlip.git"
-}
+    "type": "git",
+    "url": "git+https://github.com/AliPandaroo/boolFlip.git"
+  },
+  "homepage": "https://github.com/AliPandaroo/boolFlip#readme"
 }

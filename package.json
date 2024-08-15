@@ -1,0 +1,26 @@
+{
+  "name": "boolflip",
+  "version": "1.0.0",
+  "description": "A simple utility to generate random boolean values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [
+    "boolean",
+    "random",
+    "utility",
+    "flip",
+    "bool",
+    "generator"
+  ],
+  "author": "Ali Penddarou <atapndro21@gmail.com> (ataw-dev)",
+  "license": "MIT",
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/yourusername/boolflip.git"
+}
+}

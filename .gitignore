@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Environment variable files
+.env
+.env.local
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
